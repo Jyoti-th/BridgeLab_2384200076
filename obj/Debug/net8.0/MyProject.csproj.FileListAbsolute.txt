@@ -1,0 +1,14 @@
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\bin\Debug\net8.0\MyProject.exe
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\bin\Debug\net8.0\MyProject.deps.json
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\bin\Debug\net8.0\MyProject.dll
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\bin\Debug\net8.0\MyProject.pdb
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.dll
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.pdb
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+C:\Users\JYOTI THAKUR\Desktop\BL_Assignment1\MyProject\obj\Debug\net8.0\ref\MyProject.dll
