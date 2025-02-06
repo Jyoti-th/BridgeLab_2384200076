@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\oops object modeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\universitymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\universitymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\callingallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\callingallclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\ecommerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\patienthospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\patienthospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|c:\\users\\jyoti thakur\\desktop\\object modeling\\oops object modeling\\oops object modeling\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76796F58-4E1A-475D-A52F-26E4C9946F4D}|OOPs Object Modeling\\OOPs Object Modeling.csproj|solutionrelative:oops object modeling\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Faculty.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Faculty.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Faculty.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Faculty.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:47:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientHospital.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\PatientHospital.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\PatientHospital.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\PatientHospital.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\PatientHospital.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:02:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ecommerce.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Ecommerce.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Ecommerce.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Ecommerce.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Ecommerce.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:05:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Program.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Program.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:29:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityManagement.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\UniversityManagement.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\UniversityManagement.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\UniversityManagement.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\UniversityManagement.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:09:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallingAllClasses.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\CallingAllClasses.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\CallingAllClasses.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\CallingAllClasses.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\CallingAllClasses.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAiwO8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:24:25.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Course.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Course.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Course.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Course.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:41:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Employee.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Employee.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Employee.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:37:29.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\BankAccount.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\BankAccount.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\BankAccount.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:26:26.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Library.cs",
+              "RelativeDocumentMoniker": "OOPs Object Modeling\\Library.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\Desktop\\Object Modeling\\OOPs Object Modeling\\OOPs Object Modeling\\Library.cs",
+              "RelativeToolTip": "OOPs Object Modeling\\Library.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:30:14.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
