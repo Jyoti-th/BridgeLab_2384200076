@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\bin\Debug\Introduction of Inheritance.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\bin\Debug\Introduction of Inheritance.exe
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\bin\Debug\Introduction of Inheritance.pdb
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\obj\Debug\Introduction of Inheritance.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\obj\Debug\Introduction of Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\obj\Debug\Introduction of Inheritance.exe
+C:\Users\JYOTI THAKUR\source\repos\Introduction of Inheritance\Introduction of Inheritance\obj\Debug\Introduction of Inheritance.pdb
