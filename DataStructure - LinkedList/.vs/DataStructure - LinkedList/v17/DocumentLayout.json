@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|c:\\users\\jyoti thakur\\source\\repos\\datastructure - linkedlist\\datastructure - linkedlist\\ticketreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|solutionrelative:datastructure - linkedlist\\ticketreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|c:\\users\\jyoti thakur\\source\\repos\\datastructure - linkedlist\\datastructure - linkedlist\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|solutionrelative:datastructure - linkedlist\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|c:\\users\\jyoti thakur\\source\\repos\\datastructure - linkedlist\\datastructure - linkedlist\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|solutionrelative:datastructure - linkedlist\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|c:\\users\\jyoti thakur\\source\\repos\\datastructure - linkedlist\\datastructure - linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|solutionrelative:datastructure - linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\datastructure - linkedlist\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A08994-07B9-4F8B-87A2-CC58F1A2338D}|DataStructure - LinkedList\\DataStructure - LinkedList.csproj|solutionrelative:datastructure - linkedlist\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "DataStructure - LinkedList\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\SocialMedia.cs",
+              "RelativeToolTip": "DataStructure - LinkedList\\SocialMedia.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:51:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\LibraryManagement.cs",
+              "RelativeDocumentMoniker": "DataStructure - LinkedList\\LibraryManagement.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\LibraryManagement.cs",
+              "RelativeToolTip": "DataStructure - LinkedList\\LibraryManagement.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAUwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:48:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketReservation.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\TicketReservation.cs",
+              "RelativeDocumentMoniker": "DataStructure - LinkedList\\TicketReservation.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\TicketReservation.cs",
+              "RelativeToolTip": "DataStructure - LinkedList\\TicketReservation.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA2wIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:28:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "DataStructure - LinkedList\\CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\CallingAllClass.cs",
+              "RelativeToolTip": "DataStructure - LinkedList\\CallingAllClass.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAUwKwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:18:42.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructure - LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\DataStructure - LinkedList\\DataStructure - LinkedList\\Program.cs",
+              "RelativeToolTip": "DataStructure - LinkedList\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:24:18.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

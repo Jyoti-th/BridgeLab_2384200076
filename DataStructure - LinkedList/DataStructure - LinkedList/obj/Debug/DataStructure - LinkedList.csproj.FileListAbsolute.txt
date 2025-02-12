@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\bin\Debug\DataStructure - LinkedList.exe.config
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\bin\Debug\DataStructure - LinkedList.exe
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\bin\Debug\DataStructure - LinkedList.pdb
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\obj\Debug\DataStructure - LinkedList.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\obj\Debug\DataStructure - LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\obj\Debug\DataStructure - LinkedList.exe
+C:\Users\JYOTI THAKUR\source\repos\DataStructure - LinkedList\DataStructure - LinkedList\obj\Debug\DataStructure - LinkedList.pdb
