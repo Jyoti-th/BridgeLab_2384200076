@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\bin\Debug\Stack,QueueAnd Hashing.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\bin\Debug\Stack,QueueAnd Hashing.exe
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\bin\Debug\Stack,QueueAnd Hashing.pdb
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\obj\Debug\Stack,QueueAnd Hashing.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\obj\Debug\Stack,QueueAnd Hashing.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\obj\Debug\Stack,QueueAnd Hashing.exe
+C:\Users\JYOTI THAKUR\source\repos\Stack,QueueAnd Hashing\Stack,QueueAnd Hashing\obj\Debug\Stack,QueueAnd Hashing.pdb
