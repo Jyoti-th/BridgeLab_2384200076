@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.pdb
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.exe
+C:\Users\JYOTI THAKUR\source\repos\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.pdb
