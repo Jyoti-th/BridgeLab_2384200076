@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\bin\Debug\Linear and Binary Search.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\bin\Debug\Linear and Binary Search.exe
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\bin\Debug\Linear and Binary Search.pdb
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\obj\Debug\Linear and Binary Search.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\obj\Debug\Linear and Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\obj\Debug\Linear and Binary Search.exe
+C:\Users\JYOTI THAKUR\source\repos\Linear and Binary Search\Linear and Binary Search\obj\Debug\Linear and Binary Search.pdb

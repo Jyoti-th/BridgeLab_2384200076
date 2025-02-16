@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\compareperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\compareperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\concatenatestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\concatenatestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\occurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\occurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\charconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\charconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\readinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|c:\\users\\jyoti thakur\\source\\repos\\linear and binary search\\linear and binary search\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A143070-03AE-4B32-8591-0C15F677CCC8}|Linear and Binary Search\\Linear and Binary Search.csproj|solutionrelative:linear and binary search\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordCounter.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\WordCounter.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\WordCounter.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\WordCounter.cs",
+              "RelativeToolTip": "Linear and Binary Search\\WordCounter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:37:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadFile.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ReadFile.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\ReadFile.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ReadFile.cs",
+              "RelativeToolTip": "Linear and Binary Search\\ReadFile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:37:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComparePerformance.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ComparePerformance.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\ComparePerformance.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ComparePerformance.cs",
+              "RelativeToolTip": "Linear and Binary Search\\ComparePerformance.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:36:26.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcatenateString.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ConcatenateString.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\ConcatenateString.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ConcatenateString.cs",
+              "RelativeToolTip": "Linear and Binary Search\\ConcatenateString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:35:58.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Occurance.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\Occurance.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\Occurance.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\Occurance.cs",
+              "RelativeToolTip": "Linear and Binary Search\\Occurance.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:33:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharConvertor.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\CharConvertor.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\CharConvertor.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\CharConvertor.cs",
+              "RelativeToolTip": "Linear and Binary Search\\CharConvertor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:32:40.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadInput.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ReadInput.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\ReadInput.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\ReadInput.cs",
+              "RelativeToolTip": "Linear and Binary Search\\ReadInput.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:32:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\CallingAllClass.cs",
+              "RelativeToolTip": "Linear and Binary Search\\CallingAllClass.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAiwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:17:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\Program.cs",
+              "RelativeDocumentMoniker": "Linear and Binary Search\\Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Linear and Binary Search\\Linear and Binary Search\\Program.cs",
+              "RelativeToolTip": "Linear and Binary Search\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:11:48.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
