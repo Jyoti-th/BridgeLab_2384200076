@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\bin\Debug\Submission of Generics.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\bin\Debug\Submission of Generics.exe
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\bin\Debug\Submission of Generics.pdb
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\obj\Debug\Submission of Generics.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\obj\Debug\Submission of Generics.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\obj\Debug\Submission of Generics.exe
+C:\Users\JYOTI THAKUR\source\repos\Submission of Generics\Submission of Generics\obj\Debug\Submission of Generics.pdb

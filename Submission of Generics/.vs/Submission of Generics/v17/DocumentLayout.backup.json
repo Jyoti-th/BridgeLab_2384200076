@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|c:\\users\\jyoti thakur\\source\\repos\\submission of generics\\submission of generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|solutionrelative:submission of generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|c:\\users\\jyoti thakur\\source\\repos\\submission of generics\\submission of generics\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|solutionrelative:submission of generics\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|c:\\users\\jyoti thakur\\source\\repos\\submission of generics\\submission of generics\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|solutionrelative:submission of generics\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|c:\\users\\jyoti thakur\\source\\repos\\submission of generics\\submission of generics\\mealplangenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|solutionrelative:submission of generics\\mealplangenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|c:\\users\\jyoti thakur\\source\\repos\\submission of generics\\submission of generics\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A88DCD7-7983-44A9-9D46-C74974282069}|Submission of Generics\\Submission of Generics.csproj|solutionrelative:submission of generics\\coursemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobRole.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\JobRole.cs",
+              "RelativeDocumentMoniker": "Submission of Generics\\JobRole.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\JobRole.cs",
+              "RelativeToolTip": "Submission of Generics\\JobRole.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:04:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MealPlanGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\MealPlanGenerator.cs",
+              "RelativeDocumentMoniker": "Submission of Generics\\MealPlanGenerator.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\MealPlanGenerator.cs",
+              "RelativeToolTip": "Submission of Generics\\MealPlanGenerator.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:54:27.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\CourseManagement.cs",
+              "RelativeDocumentMoniker": "Submission of Generics\\CourseManagement.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\CourseManagement.cs",
+              "RelativeToolTip": "Submission of Generics\\CourseManagement.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA7wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:20:16.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "Submission of Generics\\CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\CallingAllClass.cs",
+              "RelativeToolTip": "Submission of Generics\\CallingAllClass.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:21:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Submission of Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Submission of Generics\\Submission of Generics\\Program.cs",
+              "RelativeToolTip": "Submission of Generics\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:22:24.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
