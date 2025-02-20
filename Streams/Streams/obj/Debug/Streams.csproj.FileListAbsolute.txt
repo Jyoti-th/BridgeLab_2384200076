@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\bin\Debug\Streams.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\bin\Debug\Streams.exe
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\bin\Debug\Streams.pdb
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\obj\Debug\Streams.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\obj\Debug\Streams.exe
+C:\Users\JYOTI THAKUR\source\repos\Streams\Streams\obj\Debug\Streams.pdb

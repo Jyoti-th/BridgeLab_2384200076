@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|c:\\users\\jyoti thakur\\source\\repos\\streams\\streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|solutionrelative:streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|c:\\users\\jyoti thakur\\source\\repos\\streams\\streams\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|solutionrelative:streams\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|c:\\users\\jyoti thakur\\source\\repos\\streams\\streams\\countwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C2A0F0-69C3-4680-8D29-9EE4E92B9248}|Streams\\Streams.csproj|solutionrelative:streams\\countwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountWords.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\CountWords.cs",
+              "RelativeDocumentMoniker": "Streams\\CountWords.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\CountWords.cs",
+              "RelativeToolTip": "Streams\\CountWords.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:09:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "Streams\\CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\CallingAllClass.cs",
+              "RelativeToolTip": "Streams\\CallingAllClass.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:46:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\Program.cs",
+              "RelativeDocumentMoniker": "Streams\\Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\Streams\\Streams\\Program.cs",
+              "RelativeToolTip": "Streams\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:05:28.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
