@@ -1,9 +1,26 @@
-# BridgeLab_2384200076
-#Practice Level Assignment
-#Programming Elements Level
-#ControlFlows
-#Arrays
-#Methods
-#String handling
-#String Common built in
-#Object Oriented Programming
+
+[# BridgeLab_2384200076]
+[#Practice Problem]
+[#Programming Elements]
+[#Control FLow]
+[#Arrays]
+[#Methods]
+[#String]
+[#Built-In Function]
+[#Class and Object]
+[#Constructor,Instance vs class Variables]
+[#this,sealed,static keyword and is operator]
+[#Object oriented design principal
+[#Inheritance]
+[#Polymorphism, Encapsulation, Interface, Abstracr]
+[#Data Structures - LinkedList]
+[#Stack, Queue, HAshmap and HAshing function]
+[#Sorting Algorithms]
+[#Linear and Binary Search]
+[#Runtime analysis & Big-O Notation]
+[#Generics]
+[#Collections]
+[#Streams]
+[#Exception]
+
+>>>>>>> 4f1a084 (README Updated)
