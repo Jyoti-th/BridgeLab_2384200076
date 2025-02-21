@@ -1,0 +1,7 @@
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\JYOTI THAKUR\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
