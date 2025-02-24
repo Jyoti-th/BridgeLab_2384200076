@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\bin\Debug\Submission of Regex.exe.config
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\bin\Debug\Submission of Regex.exe
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\bin\Debug\Submission of Regex.pdb
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\obj\Debug\Submission of Regex.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\obj\Debug\Submission of Regex.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\obj\Debug\Submission of Regex.exe
+C:\Users\lenovo\source\repos\Submission of Regex\Submission of Regex\obj\Debug\Submission of Regex.pdb
