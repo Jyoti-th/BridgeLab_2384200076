@@ -22,5 +22,4 @@
 [#Collections]
 [#Streams]
 [#Exception]
-
->>>>>>> 4f1a084 (README Updated)
+[#Regex]
