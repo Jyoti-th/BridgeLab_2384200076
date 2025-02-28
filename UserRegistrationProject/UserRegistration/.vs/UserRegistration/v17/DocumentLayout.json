@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|c:\\users\\lenovo\\source\\repos\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8347EC5D-24BD-44C6-857B-D439E8BAF0C1}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\lenovo\\source\\repos\\repositorylayer1\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|c:\\users\\lenovo\\source\\repos\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|c:\\users\\lenovo\\source\\repos\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86FC9B7-C45F-4749-B3FD-916F9828E8E3}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D686E095-787F-4937-B8C4-46026F1668AF}|..\\BusinessLayer1\\BusinessLayer1.csproj|c:\\users\\lenovo\\source\\repos\\businesslayer1\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:34:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T16:33:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\RepositoryLayer1\\service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\RepositoryLayer1\\service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\service\\UserRegistrationRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:51:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BusinessLayer1\\service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer1\\service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BusinessLayer1\\service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer1\\service\\UserRegistrationBL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:50:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA/wBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:42:20.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
