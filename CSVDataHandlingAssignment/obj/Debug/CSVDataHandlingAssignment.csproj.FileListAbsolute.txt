@@ -1,0 +1,7 @@
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\bin\Debug\CSVDataHandlingAssignment.exe.config
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\bin\Debug\CSVDataHandlingAssignment.exe
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\bin\Debug\CSVDataHandlingAssignment.pdb
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\obj\Debug\CSVDataHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\obj\Debug\CSVDataHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\obj\Debug\CSVDataHandlingAssignment.exe
+C:\Users\Ankit Singh\source\repos\CSVDataHandlingAssignment\obj\Debug\CSVDataHandlingAssignment.pdb
