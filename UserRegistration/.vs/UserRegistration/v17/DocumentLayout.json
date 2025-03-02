@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A965FFB9-11D0-463C-9D5E-1E1D8BEFBD60}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\jyoti thakur\\source\\repos\\modellayer\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A965FFB9-11D0-463C-9D5E-1E1D8BEFBD60}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\jyoti thakur\\source\\repos\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|c:\\users\\jyoti thakur\\source\\repos\\userregistration\\log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|solutionrelative:log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD51EB3-BEC3-472A-946E-9476D6E9FEB0}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\jyoti thakur\\source\\repos\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED6380-3CF6-4C00-92EA-EC446A7F27E9}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\jyoti thakur\\source\\repos\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|c:\\users\\jyoti thakur\\source\\repos\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|c:\\users\\jyoti thakur\\source\\repos\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|c:\\users\\jyoti thakur\\source\\repos\\userregistration\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ED6380-3CF6-4C00-92EA-EC446A7F27E9}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\jyoti thakur\\source\\repos\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|c:\\users\\jyoti thakur\\source\\repos\\userregistration\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCDB32FF-2712-4BF1-A093-AF9ED6C514F7}|UserRegistration.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.log",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Log\\App.log",
+              "RelativeDocumentMoniker": "Log\\App.log",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Log\\App.log",
+              "RelativeToolTip": "Log\\App.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-02T17:44:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:16:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:45:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:58:41.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\BusinessLayer\\service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\BusinessLayer\\service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:27:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:40:24.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\RepositoryLayer\\service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\RepositoryLayer\\service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:29:54.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T16:53:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T17:24:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "C:\\Users\\JYOTI THAKUR\\source\\repos\\UserRegistration\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T16:59:13.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

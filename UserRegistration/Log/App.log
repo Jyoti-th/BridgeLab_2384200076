@@ -1,0 +1,22 @@
+2025-03-02 23:13:44.9074 | INFO | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7104 
+2025-03-02 23:13:45.1421 | INFO | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5216 
+2025-03-02 23:13:46.2862 | INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-02 23:13:46.2988 | INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-02 23:13:46.3132 | INFO | Microsoft.Hosting.Lifetime | Content root path: C:\Users\JYOTI THAKUR\source\repos\UserRegistration\ 
+2025-03-02 23:13:48.7203 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7104/UserRegistration - - 
+2025-03-02 23:13:49.5304 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-02 23:13:49.6709 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature System.String Registration() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-02 23:13:49.7454 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing ObjectResult, writing value of type 'System.String'. 
+2025-03-02 23:13:49.8065 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 123.5724ms 
+2025-03-02 23:13:49.8065 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-02 23:13:49.8334 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7104/UserRegistration - - - 200 - text/plain;+charset=utf-8 1120.7595ms 
+2025-03-02 23:13:50.0641 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7104/favicon.ico - - 
+2025-03-02 23:13:50.0728 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7104/favicon.ico - - - 404 0 - 8.5713ms 
+2025-03-02 23:14:05.1784 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7104/UserRegistration application/json 130 
+2025-03-02 23:14:05.1825 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.LoginUser (UserRegistration)' 
+2025-03-02 23:14:05.2220 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "LoginUser", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LoginUser(ModelLayer.DTO.LoginDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-02 23:14:05.4136 | INFO | UserRegistration.Controllers.UserRegistrationController | User Logged In Successfully 
+2025-03-02 23:14:05.4186 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'ModelLayer.DTO.ResponseDTO`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-02 23:14:05.4541 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.LoginUser (UserRegistration) in 216.6826ms 
+2025-03-02 23:14:05.4541 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.LoginUser (UserRegistration)' 
+2025-03-02 23:14:05.4541 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7104/UserRegistration application/json 130 - 200 - application/json;+charset=utf-8 278.4234ms 
